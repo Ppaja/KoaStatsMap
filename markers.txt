@@ -1,22 +1,27 @@
-[
-  {
-    "type": "strategic",
-    "name": "TestName",
-    "description": "TestBesch",
-    "priority": "5",
-    "info": "TestAuf",
-    "image": "../images/tank.png",
-    "positionX": 0.2015625,
-    "positionY": 0.20515046296296297
-  },
-  {
-    "type": "strategic",
-    "name": "TestName2",
-    "description": "TestBesch2",
-    "priority": "1",
-    "info": "TestAuf2",
-    "image": "../images/navy.png",
-    "positionX": 0.165625,
-    "positionY": 0.3949652777777778
-  }
-]
+strategic
+TestName
+TestBesch
+5
+TestAuf
+../images/tank.png
+0.2015625
+0.20515046296296297
+
+strategic
+TestName2
+TestBesch2
+1
+TestAuf2
+../images/navy.png
+0.165625
+0.3949652777777778
+
+strategic
+
+
+3
+
+../images/infantry.png
+0.31197916666666664
+0.4745949074074074
+

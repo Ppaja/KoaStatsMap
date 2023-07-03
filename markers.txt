@@ -51,12 +51,12 @@
   },
   {
     "type": "strategic",
-    "name": "u",
-    "description": "uu",
+    "name": "pp",
+    "description": "ppp",
     "priority": "3",
-    "info": "uuu",
-    "image": "../images/tank.png",
-    "positionX": 0.2526041666666667,
-    "positionY": 0.48292824074074076
+    "info": "pppp",
+    "image": "../images/aircraft.png",
+    "positionX": 0.24583333333333332,
+    "positionY": 0.5032986111111111
   }
 ]

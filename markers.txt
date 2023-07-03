@@ -38,5 +38,15 @@
     "image": "../images/strategic.png",
     "positionX": 0.18177083333333333,
     "positionY": 0.6505208333333333
+  },
+  {
+    "type": "strategic",
+    "name": "a",
+    "description": "ai",
+    "priority": "3",
+    "info": "air",
+    "image": "../images/aircraft.png",
+    "positionX": 0.35520833333333335,
+    "positionY": 0.5125578703703704
   }
 ]

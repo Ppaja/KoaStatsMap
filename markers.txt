@@ -28,5 +28,15 @@
     "image": "../images/uboot.png",
     "positionX": 0.20729166666666668,
     "positionY": 0.6023726851851852
+  },
+  {
+    "type": "strategic",
+    "name": "bb",
+    "description": "bbb",
+    "priority": "3",
+    "info": "bbbb",
+    "image": "../images/lighttank.png",
+    "positionX": 0.10989583333333333,
+    "positionY": 0.4310763888888889
   }
 ]

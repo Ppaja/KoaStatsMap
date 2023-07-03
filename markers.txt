@@ -38,5 +38,15 @@
     "image": "../images/strategic.png",
     "positionX": 0.4427083333333333,
     "positionY": 0.6097800925925926
+  },
+  {
+    "type": "strategic",
+    "name": "flu",
+    "description": "gzeu",
+    "priority": "5",
+    "info": "g",
+    "image": "../images/aircraft.png",
+    "positionX": 0.08489583333333334,
+    "positionY": 0.21255787037037038
   }
 ]

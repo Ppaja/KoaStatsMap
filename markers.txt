@@ -1,0 +1,22 @@
+[
+  {
+    "type": "strategic",
+    "name": "TestName",
+    "description": "TestBesch",
+    "priority": "5",
+    "info": "TestAuf",
+    "image": "../images/tank.png",
+    "positionX": 0.2015625,
+    "positionY": 0.20515046296296297
+  },
+  {
+    "type": "strategic",
+    "name": "TestName2",
+    "description": "TestBesch2",
+    "priority": "1",
+    "info": "TestAuf2",
+    "image": "../images/navy.png",
+    "positionX": 0.165625,
+    "positionY": 0.3949652777777778
+  }
+]

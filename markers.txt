@@ -28,5 +28,15 @@
     "image": "../images/infantry.png",
     "positionX": 0.1203125,
     "positionY": 0.4144097222222222
+  },
+  {
+    "type": "strategic",
+    "name": "",
+    "description": "",
+    "priority": "3",
+    "info": "",
+    "image": "../images/strategic.png",
+    "positionX": 0.4427083333333333,
+    "positionY": 0.6097800925925926
   }
 ]

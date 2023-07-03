@@ -1,27 +1,32 @@
-strategic
-TestName
-TestBesch
-5
-TestAuf
-../images/tank.png
-0.2015625
-0.20515046296296297
-
-strategic
-TestName2
-TestBesch2
-1
-TestAuf2
-../images/navy.png
-0.165625
-0.3949652777777778
-
-strategic
-
-
-3
-
-../images/infantry.png
-0.31197916666666664
-0.4745949074074074
-
+[
+  {
+    "type": "strategic",
+    "name": "test1",
+    "description": "test1b",
+    "priority": "3",
+    "info": "test1a",
+    "image": "../images/lighttank.png",
+    "positionX": 0.18385416666666668,
+    "positionY": 0.20422453703703702
+  },
+  {
+    "type": "strategic",
+    "name": "test2",
+    "description": "test2b",
+    "priority": "5",
+    "info": "test2a",
+    "image": "../images/navy.png",
+    "positionX": 0.15989583333333332,
+    "positionY": 0.38663194444444443
+  },
+  {
+    "type": "strategic",
+    "name": "",
+    "description": "",
+    "priority": "3",
+    "info": "",
+    "image": "../images/lighttank.png",
+    "positionX": 0.3020833333333333,
+    "positionY": 0.2782986111111111
+  }
+]

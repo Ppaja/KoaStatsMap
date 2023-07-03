@@ -41,12 +41,12 @@
   },
   {
     "type": "strategic",
-    "name": "flu",
-    "description": "gzeu",
-    "priority": "5",
-    "info": "g",
-    "image": "../images/aircraft.png",
-    "positionX": 0.08489583333333334,
-    "positionY": 0.21255787037037038
+    "name": "",
+    "description": "",
+    "priority": "3",
+    "info": "",
+    "image": "../images/infantry.png",
+    "positionX": 0.24375,
+    "positionY": 0.44403935185185184
   }
 ]

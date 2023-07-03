@@ -48,5 +48,15 @@
     "image": "../images/aircraft.png",
     "positionX": 0.35520833333333335,
     "positionY": 0.5125578703703704
+  },
+  {
+    "type": "strategic",
+    "name": "u",
+    "description": "uu",
+    "priority": "3",
+    "info": "uuu",
+    "image": "../images/tank.png",
+    "positionX": 0.2526041666666667,
+    "positionY": 0.48292824074074076
   }
 ]

@@ -8,5 +8,15 @@
     "image": "../images/tank.png",
     "positionX": 0.6677083333333333,
     "positionY": 0.44033564814814813
+  },
+  {
+    "type": "strategic",
+    "name": "",
+    "description": "",
+    "priority": "3",
+    "info": "",
+    "image": "../images/navy.png",
+    "positionX": 0.38385416666666666,
+    "positionY": 0.43385416666666665
   }
 ]

@@ -18,5 +18,15 @@
     "image": "../images/navy.png",
     "positionX": 0.38385416666666666,
     "positionY": 0.43385416666666665
+  },
+  {
+    "type": "strategic",
+    "name": "Uboote ",
+    "description": "Wartend",
+    "priority": "3",
+    "info": "3 uboote ",
+    "image": "../images/uboot.png",
+    "positionX": 0.20729166666666668,
+    "positionY": 0.6023726851851852
   }
 ]

@@ -51,12 +51,12 @@
   },
   {
     "type": "strategic",
-    "name": "pp",
-    "description": "ppp",
+    "name": "",
+    "description": "",
     "priority": "3",
-    "info": "pppp",
-    "image": "../images/aircraft.png",
-    "positionX": 0.24583333333333332,
-    "positionY": 0.5032986111111111
+    "info": "",
+    "image": "../images/strategic.png",
+    "positionX": 0.5213541666666667,
+    "positionY": 0.5282986111111111
   }
 ]

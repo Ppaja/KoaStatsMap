@@ -28,5 +28,15 @@
     "image": "../images/uboot.png",
     "positionX": 0.15572916666666667,
     "positionY": 0.5654079861111111
+  },
+  {
+    "type": "strategic",
+    "name": "jenny",
+    "description": "jennyy",
+    "priority": "3",
+    "info": "jennyyy",
+    "image": "../images/aircraft.png",
+    "positionX": 0.4197916666666667,
+    "positionY": 0.6128761574074074
   }
 ]

@@ -1,42 +1,22 @@
 [
   {
     "type": "strategic",
-    "name": "test1",
-    "description": "test1b",
-    "priority": "3",
-    "info": "test1a",
-    "image": "../images/tank.png",
-    "positionX": 0.6677083333333333,
-    "positionY": 0.44033564814814813
-  },
-  {
-    "type": "strategic",
-    "name": "",
-    "description": "",
-    "priority": "3",
-    "info": "",
-    "image": "../images/navy.png",
-    "positionX": 0.38385416666666666,
-    "positionY": 0.43385416666666665
-  },
-  {
-    "type": "strategic",
-    "name": "Uboote ",
+    "name": "Panzerarmee",
     "description": "Wartend",
-    "priority": "3",
-    "info": "3 uboote ",
-    "image": "../images/uboot.png",
-    "positionX": 0.20729166666666668,
-    "positionY": 0.6023726851851852
+    "priority": "4",
+    "info": "3 schwere Panzer",
+    "image": "../images/tank.png",
+    "positionX": 0.09375,
+    "positionY": 0.35050636574074073
   },
   {
     "type": "strategic",
-    "name": "bb",
-    "description": "bbb",
-    "priority": "3",
-    "info": "bbbb",
-    "image": "../images/lighttank.png",
-    "positionX": 0.10989583333333333,
-    "positionY": 0.4310763888888889
+    "name": "Flotte",
+    "description": "Unterwegs Richtung Europa",
+    "priority": "2",
+    "info": "unbekannt",
+    "image": "../images/navy.png",
+    "positionX": 0.1875,
+    "positionY": 0.3690248842592593
   }
 ]

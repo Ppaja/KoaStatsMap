@@ -18,5 +18,15 @@
     "image": "../images/navy.png",
     "positionX": 0.1875,
     "positionY": 0.3690248842592593
+  },
+  {
+    "type": "strategic",
+    "name": "Test",
+    "description": "TestBesch",
+    "priority": "1",
+    "info": "testauf",
+    "image": "../images/uboot.png",
+    "positionX": 0.15572916666666667,
+    "positionY": 0.5654079861111111
   }
 ]

@@ -18,15 +18,5 @@
     "image": "../images/navy.png",
     "positionX": 0.1875,
     "positionY": 0.3690248842592593
-  },
-  {
-    "type": "strategic",
-    "name": "Test",
-    "description": "test",
-    "priority": "3",
-    "info": "ii",
-    "image": "../images/uboot.png",
-    "positionX": 0.171875,
-    "positionY": 0.5254050925925926
   }
 ]

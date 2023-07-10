@@ -18,15 +18,5 @@
     "image": "../images/navy.png",
     "positionX": 0.1875,
     "positionY": 0.3690248842592593
-  },
-  {
-    "type": "strategic",
-    "name": "Test",
-    "description": "DerTest",
-    "priority": "3",
-    "info": "2",
-    "image": "../images/navy.png",
-    "positionX": 0.209375,
-    "positionY": 0.5418547453703704
   }
 ]

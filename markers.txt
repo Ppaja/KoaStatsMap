@@ -18,15 +18,5 @@
     "image": "../images/navy.png",
     "positionX": 0.1875,
     "positionY": 0.3690248842592593
-  },
-  {
-    "type": "strategic",
-    "name": "",
-    "description": "",
-    "priority": "3",
-    "info": "",
-    "image": "../images/lighttank.png",
-    "positionX": 0.11041666666666666,
-    "positionY": 0.14114583333333333
   }
 ]

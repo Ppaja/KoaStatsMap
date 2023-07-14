@@ -18,35 +18,5 @@
     "image": "../images/navy.png",
     "positionX": 0.1875,
     "positionY": 0.3690248842592593
-  },
-  {
-    "type": "strategic",
-    "name": "",
-    "description": "",
-    "priority": "3",
-    "info": "",
-    "image": "../images/infantry.png",
-    "positionX": 0.20885416666666667,
-    "positionY": 0.2124118098506221
-  },
-  {
-    "type": "strategic",
-    "name": "",
-    "description": "",
-    "priority": "3",
-    "info": "",
-    "image": "../images/infantry.png",
-    "positionX": 0.29791666666666666,
-    "positionY": 0.24481921725802952
-  },
-  {
-    "type": "strategic",
-    "name": "",
-    "description": "",
-    "priority": "3",
-    "info": "",
-    "image": "../images/infantry.png",
-    "positionX": 0.30520833333333336,
-    "positionY": 0.3985229209617332
   }
 ]

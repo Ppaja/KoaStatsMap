@@ -18,5 +18,15 @@
     "image": "../images/navy.png",
     "positionX": 0.1875,
     "positionY": 0.3690248842592593
+  },
+  {
+    "type": "strategic",
+    "name": "Test 3 Aufklärung",
+    "description": "test 3",
+    "priority": "1",
+    "info": "kein plan",
+    "image": "../images/strategic.png",
+    "positionX": 0.14114583333333333,
+    "positionY": 0.5495804398148149
   }
 ]

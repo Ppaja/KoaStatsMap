@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "type": "strategic",
+    "name": "Artillerie ",
+    "description": "Artillerie ",
+    "priority": "2",
+    "info": "3 Artillerie 1 Infanterie ",
+    "image": "../images/infantry.png",
+    "positionX": 0.6,
+    "positionY": 0.5833333333333334
+  },
+  {
+    "type": "strategic",
+    "name": "Infanterie ",
+    "description": "Infanterie",
+    "priority": "2",
+    "info": "7 Infanterie ",
+    "image": "../images/infantry.png",
+    "positionX": 0.6223958333333334,
+    "positionY": 0.6212962962962963
+  },
+  {
+    "type": "strategic",
+    "name": "Flotte ",
+    "description": "Wartend",
+    "priority": "2",
+    "info": "3 Kreuzer ",
+    "image": "../images/navy.png",
+    "positionX": 0.5833333333333334,
+    "positionY": 0.612037037037037
+  }
+]

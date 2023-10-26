@@ -28,5 +28,15 @@
     "image": "../images/navy.png",
     "positionX": 0.5833333333333334,
     "positionY": 0.612037037037037
+  },
+  {
+    "type": "strategic",
+    "name": "middle",
+    "description": "a",
+    "priority": "3",
+    "info": "s",
+    "image": "../images/infantry.png",
+    "positionX": 0.521875,
+    "positionY": 0.4919704861111111
   }
 ]

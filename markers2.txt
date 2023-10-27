@@ -1,1 +1,12 @@
-
+[
+  {
+    "type": "military",
+    "name": "middle",
+    "description": "asd",
+    "priority": "3",
+    "info": "ttt",
+    "image": "../images/tank.png",
+    "positionX": 0.071875,
+    "positionY": 0.3530815972222222
+  }
+]

@@ -18,5 +18,25 @@
     "image": "../images/tank.png",
     "positionX": 0.5932291666666667,
     "positionY": 0.4398148148148148
+  },
+  {
+    "type": "military",
+    "name": "Russland ",
+    "description": "Ziel: Hauptstadt einnehmen ",
+    "priority": "4",
+    "info": "Unbekannt",
+    "image": "../images/strategic.png",
+    "positionX": 0.9234375,
+    "positionY": 0.32407407407407407
+  },
+  {
+    "type": "military",
+    "name": "Russland ",
+    "description": "Ziel: Stahlproduktion zur Unterbrechung der Panzerproduktion",
+    "priority": "3",
+    "info": "Unbekannt",
+    "image": "../images/strategic.png",
+    "positionX": 0.7947916666666667,
+    "positionY": 0.20555555555555555
   }
 ]

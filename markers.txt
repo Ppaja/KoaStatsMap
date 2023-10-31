@@ -1,22 +1,22 @@
 [
   {
     "type": "military",
-    "name": "",
-    "description": "",
-    "priority": "3",
-    "info": "",
-    "image": "../images/arti.png",
-    "positionX": 0.09635416666666667,
-    "positionY": 0.34382233796296297
+    "name": "LAND",
+    "description": "Beschreibung (zum Beispiel wartend)\nHinweis: das ist ein Test Marker. Er hat keine militärische Bedeutung!",
+    "priority": "4",
+    "info": "Was für Truppen hier sind. Zum Beispiel 2 schwere Panzer.",
+    "image": "../images/tank.png",
+    "positionX": 0.1203125,
+    "positionY": 0.43148148148148147
   },
   {
     "type": "military",
-    "name": "",
-    "description": "",
-    "priority": "3",
-    "info": "",
-    "image": "../images/strategic.png",
-    "positionX": 0.140625,
-    "positionY": 0.45771122685185184
+    "name": "Russland ",
+    "description": "Unterwegs Nordküste Deutschlands",
+    "priority": "2",
+    "info": "Mindestens 1 mittlerer Panzer",
+    "image": "../images/tank.png",
+    "positionX": 0.5932291666666667,
+    "positionY": 0.4398148148148148
   }
 ]

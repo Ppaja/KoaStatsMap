@@ -1,0 +1,32 @@
+[
+  {
+    "type": "military",
+    "name": "",
+    "description": "",
+    "priority": "3",
+    "info": "",
+    "image": "../images/arti.png",
+    "positionX": 0.09635416666666667,
+    "positionY": 0.34382233796296297
+  },
+  {
+    "type": "military",
+    "name": "",
+    "description": "",
+    "priority": "3",
+    "info": "",
+    "image": "../images/strategic.png",
+    "positionX": 0.140625,
+    "positionY": 0.45771122685185184
+  },
+  {
+    "type": "military",
+    "name": "nurguest",
+    "description": "guest",
+    "priority": "3",
+    "info": "gguueesstt",
+    "image": "../images/uboot.png",
+    "positionX": 0.07604166666666666,
+    "positionY": 0.5230324074074074
+  }
+]

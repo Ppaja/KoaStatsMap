@@ -1,1 +1,12 @@
-
+[
+  {
+    "type": "military",
+    "name": "",
+    "description": "",
+    "priority": "3",
+    "info": "",
+    "image": "../images/lighttank.png",
+    "positionX": 0.07291666666666667,
+    "positionY": 0.3592592592592593
+  }
+]

@@ -1,6 +1,5 @@
 [
   {
-    "type": "military",
     "name": "LAND",
     "description": "Beschreibung (zum Beispiel wartend)\nHinweis: das ist ein Test Marker. Er hat keine militärische Bedeutung!",
     "priority": "4",

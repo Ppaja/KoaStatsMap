@@ -1,1 +1,12 @@
-
+[
+  {
+    "type": "military",
+    "name": "",
+    "description": "",
+    "priority": "3",
+    "info": "",
+    "image": "../images/navy.png",
+    "positionX": 0.09322916666666667,
+    "positionY": 0.2796296296296296
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-"type": "military",
+    "type": "military",
     "name": "LAND",
     "description": "Beschreibung (zum Beispiel wartend)\nHinweis: das ist ein Test Marker. Er hat keine militärische Bedeutung!",
     "priority": "4",
@@ -8,5 +8,15 @@
     "image": "../images/tank.png",
     "positionX": 0.1203125,
     "positionY": 0.43148148148148147
+  },
+  {
+    "type": "military",
+    "name": "asd",
+    "description": "dsa",
+    "priority": "3",
+    "info": "ddd",
+    "image": "../images/tank.png",
+    "positionX": 0.07395833333333333,
+    "positionY": 0.353515625
   }
 ]

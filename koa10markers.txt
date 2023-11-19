@@ -1,11 +1,11 @@
 [
   {
     "type": "military",
-    "name": "",
-    "description": "",
-    "priority": "3",
-    "info": "",
-    "image": "../images/navy.png",
+    "name": "Testmarker10",
+    "description": "Das ist ein Testmarker. ",
+    "priority": "4",
+    "info": "Hier könnte zum Beispiel „3 strategische Bomber“ stehen",
+    "image": "../images/aircraft.png",
     "positionX": 0.09322916666666667,
     "positionY": 0.2796296296296296
   }

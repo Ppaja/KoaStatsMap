@@ -1,12 +1,12 @@
 [
   {
     "type": "military",
-    "name": "Testmarker10",
-    "description": "Das ist ein Testmarker. ",
+    "name": "LAND",
+    "description": "Beschreibung (zum Beispiel wartend)\nHinweis: das ist ein Test Marker. Er hat keine militärische Bedeutung!",
     "priority": "4",
-    "info": "Hier könnte zum Beispiel „3 strategische Bomber“ stehen",
-    "image": "../images/aircraft.png",
-    "positionX": 0.09322916666666667,
-    "positionY": 0.2796296296296296
+    "info": "Was für Truppen hier sind. Zum Beispiel 2 schwere Panzer.",
+    "image": "../images/tank.png",
+    "positionX": 0.1203125,
+    "positionY": 0.43148148148148147
   }
 ]

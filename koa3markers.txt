@@ -1,12 +1,12 @@
 [
   {
     "type": "military",
-    "name": "",
-    "description": "",
-    "priority": "3",
-    "info": "",
-    "image": "../images/lighttank.png",
-    "positionX": 0.07291666666666667,
-    "positionY": 0.3592592592592593
+    "name": "LAND",
+    "description": "Beschreibung (zum Beispiel wartend)\nHinweis: das ist ein Test Marker. Er hat keine militärische Bedeutung!",
+    "priority": "4",
+    "info": "Was für Truppen hier sind. Zum Beispiel 2 schwere Panzer.",
+    "image": "../images/tank.png",
+    "positionX": 0.1203125,
+    "positionY": 0.43148148148148147
   }
 ]
